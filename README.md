@@ -1,10 +1,10 @@
-# Enterprise RAG System 🤖📚
+# Enterprise RAG System 
 
 This is a Retrieval-Augmented Generation (RAG) system built using LangChain, OpenAI, and ChromaDB.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Document-based question answering
 - Vector database using ChromaDB
@@ -14,7 +14,7 @@ This is a Retrieval-Augmented Generation (RAG) system built using LangChain, Ope
 
 ---
 
-## 🧠 How it works
+##  How it works
 
 1. Documents are split into chunks
 2. Each chunk is converted into embeddings
@@ -25,7 +25,7 @@ This is a Retrieval-Augmented Generation (RAG) system built using LangChain, Ope
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 app/
 retrievers/
 services/
@@ -61,7 +61,7 @@ python rag.py
 
 ---
 
-## 🔐 Security Note
+##  Security Note
 
 - Never upload `.env` file
 - API keys must remain private
@@ -77,7 +77,7 @@ python rag.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Web UI (Streamlit / FastAPI)
 - Reranking for better accuracy
@@ -86,13 +86,13 @@ python rag.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built by Arditi
-💾 Save file
+ Save file
 Click File → Save
 Close Notepad
-🚀 OPTION 2: Push README to GitHub
+ OPTION 2: Push README to GitHub
 
 Now run:
 
